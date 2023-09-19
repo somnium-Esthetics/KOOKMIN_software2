@@ -1,6 +1,6 @@
 // 7번 핀을 출력으로 설정
 int ledPin = 7;
-int blinkCount = 0; // 깜빡인 횟수 카운터
+
 
 void setup() {
   pinMode(ledPin, OUTPUT);
